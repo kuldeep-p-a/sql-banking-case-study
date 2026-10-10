@@ -62,7 +62,7 @@ cards · branches · employees · customer_interactions
 
 ## Project File
 
-📄 [banking-sql-case-study.pdf](./[banking-sql-case-study.pdf](https://github.com/kuldeep-p-a/sql-banking-case-study/blob/main/SCALER_Project_USBank.pdf))
+📄 [banking-sql-case-study.pdf](https://github.com/kuldeep-p-a/sql-banking-case-study/blob/main/SCALER_Project_USBank.pdf)
 
 ---
 
